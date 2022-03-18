@@ -17,7 +17,9 @@ Contents
 
 .. toctree::
 
-   Introduction
+   
+   api
+   introduction
    About me
    Why not
    Who is this book for
