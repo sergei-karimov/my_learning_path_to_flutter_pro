@@ -18,8 +18,8 @@ Contents
 .. toctree::
 
    introduction
-   About me
-   Why not
+   about_me
+   why_not
    Who is this book for
    Chapter one
    Chapter two
