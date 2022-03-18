@@ -2,9 +2,9 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'My way to Flutter Pto'
+copyright = '2022, SKarimov'
+author = 'SKarimov'
 
 release = '0.1'
 version = '0.1.0'
