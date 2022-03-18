@@ -17,12 +17,11 @@ Contents
 
 .. toctree::
 
-   usage
-   api
    introduction
    About me
    Why not
    Who is this book for
    Chapter one
    Chapter two
+   api
    Conclusion
